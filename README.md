@@ -6,6 +6,33 @@
 </picture>
 
 ## About me
+
+
+<!-- Write something interesting. -->
+Hello, nice to meet you. \
+I'm a programmer and I use following programming languages:
+| Rank | LANGUAGE      |
+|-----:|---------------|
+|     1| Python        |
+|     2| Javascript    |
+|     3| HTML & CSS    |
+
+<details>
+ <summary>My frameworks</summary>
+ 
+| Rank | FRAMEWORK     |
+|-----:|---------------|
+|     1| Flask         |
+|     2| Django        |
+|     3| Bootstrap     |
+
+</details>
+
+---
+> I know that I know knothing.
+
+— Socrates
+
 <!--
 **hammer012345678/hammer012345678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
